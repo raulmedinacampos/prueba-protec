@@ -6,8 +6,6 @@ use App\Models\PostModel;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 
-//use App\Models\Post;
-
 class PostController extends Controller {
     public function records() {
         $data = array();

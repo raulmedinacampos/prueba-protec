@@ -19,7 +19,7 @@ Librerías y plugins de Javascript: jQuery 3.7.1, CKEditor versión 5, DataTable
 
 ## Demo
 
-El ejemplo se puede ver en línea en la URL https://gtc-testing.com/rmedina/protec/
+El ejemplo se puede ver en línea en la URL http://18.119.248.117/
 
 Igualmente, el código y estructura de la base de datos están disponibles en el repositorio de Github https://github.com/raulmedinacampos/prueba-protec.git
 ## Instalación

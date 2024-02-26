@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/', [PostController::class, 'records']);
 Route::get('/posts', [PostController::class, 'records']);
 Route::get('/post/new', [PostController::class, 'new']);
 Route::get('/post/details/{id}', [PostController::class, 'details']);
